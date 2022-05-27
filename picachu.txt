@@ -1,3 +1,8 @@
 Es un pokemon electrico
+<<<<<<< HEAD
 Es un pokemos muy conocido de la historia 
 Dice pica pica
+=======
+Es un pokemon muy conocido de la historia 
+Es el pokemon de Ash
+>>>>>>> 9e71ff0b4e2d680cd60a6cdd948191e6fc78e973
